@@ -8,6 +8,7 @@ This Power BI project presents a dynamic and interactive dashboard focused on Sa
 Data Sources
 Includes cleaned and modeled data on:
 📍 Employee Details (Department, Gender, Salary, Job Role)
+
 📍 Sales Data (Product Categories, Revenue, Regions)
 📍 Attendance Records (Working Days, Fines, Extra Hours)
 📍 Admissions and Course Details (For Sales Analysis)
