@@ -1,8 +1,9 @@
 PowerBI-Project1
 -------------------
-📊 Zephyr Technologies and Solutions Pvt Ltd – Sales and HR Dashboard Power BI Project
+📊 Zephyr Technologies and Solutions Pvt Ltd – Sales and HR Dashboard 
 -------------------------------------------------------------------------------------------
 📂 Project Overview:
+----------------------
 This Power BI project presents a dynamic and interactive dashboard.
 
 Focuses on Sales and HR performance for Zephyr Technologies and Solutions Pvt Ltd.
@@ -18,6 +19,7 @@ Sales performance
 Key HR metrics
 
 🔑 Key Components:
+---------------------
 ✅ Data Sources include cleaned and modeled data on:
 
 Employee Details (Department, Gender, Salary, Job Role)
@@ -29,6 +31,7 @@ Attendance Records (Working Days, Fines, Extra Hours)
 Admissions and Course Details (For Sales Analysis)
 
 🌟 Dashboard Highlights:
+--------------------------
 Interactive visual analysis covering:
 
 📌 Total Sales and Revenue Trends
@@ -46,6 +49,7 @@ Interactive visual analysis covering:
 📌 Monthly Admissions and Course-wise Trends
 
 📈 KPIs and Metrics:
+-----------------------
 ✅ Total Sales
 
 ✅ Total Employee Count
@@ -63,6 +67,7 @@ Interactive visual analysis covering:
 ✅ Monthly Sales and Admissions
 
 🎯 Purpose of the Project:
+-----------------------------
 📌 Monitor Sales and HR performance at a glance.
 
 📌 Analyze department-wise employee strength and salary distribution.
@@ -74,6 +79,7 @@ Interactive visual analysis covering:
 📌 Identify monthly sales trends and admission patterns.
 
 🛠️ Tools Used:
+--------------------
 ✅ Microsoft Power BI Desktop
 
 ✅ DAX for calculated columns and measures
